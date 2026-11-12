@@ -1,0 +1,6 @@
+{
+  "name": "Candy Quest – Sweet Match Adventure",
+  "description": "A delightful 3D glossy Match-3 puzzle adventure featuring endless sweet levels, special candy combos, powerful boosters, and juicy cascading matches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
